@@ -1,1 +1,1 @@
-print("Ek bar me sikhle laude")
+print("Hello world!")
